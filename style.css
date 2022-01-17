@@ -1,5 +1,10 @@
-#href{
-color:green;
-font-size:30px;
-font-family: Sen;
+a{
+    color:green;
+    font-family: 'Sen', sans-serif;
+    font-size: 30px;
+
+}
+a:hover{
+    color:lime;
+    text-decoration: none;    
 }
